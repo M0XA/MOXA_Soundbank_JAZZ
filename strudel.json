@@ -3,9 +3,9 @@
   
 "ambient": "Sounds/Ambient/ambient_jungle morning.wav",
   
-"chesire": ["Sounds/Chesire/3.cheshire_its the queens way.wav",
+"chesire": ["Sounds/Chesire/1.cheshire_mad people.wav",
             "Sounds/Chesire/2.cheshire_simply mad.wav",
-            "Sounds/Chesire/1.cheshire_mad people.wav"],
+            "Sounds/Chesire/3.cheshire_its the queens way.wav"],
   
 "klonoa": ["Sounds/Klonoa/klonoa 1.wav","Sounds/Klonoa/klonoa 2.wav"],
 
