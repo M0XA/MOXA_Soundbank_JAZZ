@@ -10,5 +10,7 @@
 "klonoa": ["Sounds/Klonoa/klonoa 1.wav","Sounds/Klonoa/klonoa 2.wav"],
 
 "bird": "Sounds/bird/bird_mix.wav",
+
+"atmos": "Sounds/Atmos/Atmos_E2.wav",
   
 }
