@@ -3,7 +3,7 @@
   
     "ambient": "Sounds/Ambient/ambient_jungle morning.wav",
 
-    "chesire": ["Sounds/Chesire/cheshire_mad people.wav", "Sounds/Chesire/cheshire_simply mad.wav", "Sounds/Chesire/cheshire_its the queens way.wav"]
+    "chesire": ["Sounds/Chesire/cheshire_mad people.wav","Sounds/Chesire/cheshire_simply mad.wav","Sounds/Chesire/cheshire_its the queens way.wav"]
     
 
 }
