@@ -5,9 +5,9 @@
 
     "chesire": ["Sounds/Chesire/cheshire_mad people.wav","Sounds/Chesire/cheshire_its the queens way.wav","Sounds/Chesire/cheshire_simply mad.wav"],
 
-    "klonoa": ["Sounds/Klonoa/klonoa 1.wav","Sounds/Klonoa/klonoa 2.wav"]
+    "klonoa": ["Sounds/Klonoa/klonoa 1.wav","Sounds/Klonoa/klonoa 2.wav"],
 
-    "atmos": "Sounds/atmos/Atmos_E2.wav"
+    "atmos": "Sounds/atmos/Atmos_E2.wav",
 
     "choir": ["Sounds/choir/SO_SS_vocal_chord_mmm_seventh_C.wav",
               "Sounds/choir/choir_C.wav",
