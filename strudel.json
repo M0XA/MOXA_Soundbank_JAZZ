@@ -2,13 +2,10 @@
 "_base": "https://raw.githubusercontent.com/M0XA/MOXA_Soundbank_JAZZ/main/",
   
 "ambient": "Sounds/Ambient/ambient_jungle morning.wav",
-    
-"chesire": ["Sounds/Chesire/cheshire_mad people.wav","Sounds/Chesire/cheshire_its the queens way.wav","Sounds/Chesire/cheshire_simply mad.wav"],
-
-
+  
+"chesire": ["Sounds/Chesire/cheshire_mad people.wav",
+            "Sounds/Chesire/cheshire_its the queens way.wav",
+            "Sounds/Chesire/cheshire_simply mad.wav"],
+  
 "klonoa": ["Sounds/Klonoa/klonoa 1.wav","Sounds/Klonoa/klonoa 2.wav"]
-
-
-    
-
 }
